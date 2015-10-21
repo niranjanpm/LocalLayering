@@ -4,7 +4,7 @@ This code implements the Local Layering concept introduced by [2] as a GIMP plug
 
 [[Project Page]](http://www.cse.iitb.ac.in/~paragc/research/local_layering/index.shtml)       	
 [[Demo Video]](https://www.youtube.com/watch?v=loUN9aFjNgg)
-[Paper pdf](https://github.com/niranjanpm/LocalLayering/ll_paper.pdf)
+[[Paper pdf]](https://github.com/niranjanpm/LocalLayering/blob/master/ll_paper.pdf)
 
 Two versions of the source code for the plugin are released. One uses GIMP parasites to store the additional data-structures necessary for local-layering. The other implements local-layering using image masks as explained in [1].
 
